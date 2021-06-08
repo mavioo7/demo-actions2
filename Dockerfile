@@ -10,8 +10,8 @@ FROM myoung34/github-runner:latest
 #########################################
 # Variables #
 #########################################
-ARG orgname=""
-ARG reponame=""
+ARG orgname="lucaspersonal"
+ARG reponame="demo-actions2"
 
 #########################################
 # Label the instance and set maintainer #
