@@ -10,7 +10,7 @@ FROM myoung34/github-runner:latest
 #########################################
 # Variables #
 #########################################
-ARG orgname="lucaspersonal"
+ARG orgname="lukaspersonal"
 ARG reponame="demo-actions2"
 
 #########################################
